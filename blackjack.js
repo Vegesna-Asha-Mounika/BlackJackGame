@@ -33,6 +33,7 @@ function startGame() {
   cards = [firstCard, secondCard]
   sum = firstCard + secondCard
   renderGame()
+  console.log('test')
 }
 
 function renderGame() {
